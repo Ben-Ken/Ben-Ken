@@ -1,6 +1,5 @@
 - Hi, I’m @Ben-Ken
-- I’m interested in computational neuroscience
-- I’m currently learning CS50's Introduction to Programming with Python
+- I do research in computational neuroscience
 - You can reach me at: www.linkedin.com/in/Benjamin-Lévesque-Kinder
 
 <!---
