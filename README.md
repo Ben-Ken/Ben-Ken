@@ -1,5 +1,6 @@
 - Hi, I’m @Ben-Ken
-- I do research in computational neuroscience
+- I do research in computational neuroscience at the MNI BIC (MICA & neuroSPEED).
+- I am interested in studying epilepsy and cognition using neuroimaging (MRI) and neurophysiology (MEG, iEEG).
 - You can reach me at: www.linkedin.com/in/Benjamin-Lévesque-Kinder
 
 <!---
